@@ -1,6 +1,10 @@
 /* se aplica a todos os elementos que não foram especificados abaixo */
 .center {
     margin: auto;
+}
+
+.centerB {
+    margin: auto;
     width: 50%;
 }
 
@@ -32,4 +36,14 @@ body {
     height: 100vh;
     padding-left: 30px;
     padding-right: 30px;
+}
+
+#central{
+    border: 2px solid black;
+}
+
+#img{
+    border: 2px solid orange;
+    min-height: 100px;
+    margin-top: 10px;
 }
